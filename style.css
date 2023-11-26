@@ -45,6 +45,7 @@ button{
     background-color: hsl(245 75% 52%);
     color: hsl(225, 100%, 98%);
     font-weight: 700;
+    box-shadow: 5px 5px 30px hsl(223, 4%, 63%);
 }
 button:hover{
     background-color: hsl(265, 75%, 50%);
