@@ -73,12 +73,12 @@ button:hover{
 .plan-part .bold{
     font-weight: 700;
 }
-.music-right{
+.music-left{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.music-right svg{
+.music-left svg{
     margin-right: 10px;
 }
 .music-icon a:hover{
